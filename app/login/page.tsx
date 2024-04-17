@@ -12,7 +12,7 @@ import LoginForm from '../components/forms/login';
 const LoginPage = () => {
 	return (
 		<div className="flex h-screen items-center justify-center">
-			<div className="w-full sm:w-1/2 p-8 flex justify-center items-center w-100-sm">
+			<div className="w-full md:w-1/2 p-8 flex justify-center items-center w-100-sm">
 				<Card>
 					<CardHeader>
 						<CardTitle className="text-2xl">
