@@ -22,7 +22,7 @@ const SingleComment = () => {
 						</h4>
 						<p className="text-sm text-gray-500 dark:text-gray-400">
 							Absolutely stunning! Looks like you had a
-							fantastic day. 💖
+							fantastic day. 💖 &#x1F601;
 						</p>
 					</div>
 					<div className="flex flex-col space-y-1.5 justify-end">

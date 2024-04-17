@@ -78,8 +78,12 @@ const HeaderSection = () => {
 						</Link>
 					</Button>
 				</div>
-				<Button className="hidden lg:flex" variant="outline">
-					Tweet
+				<Button
+					className="hidden lg:flex"
+					variant="outline"
+					asChild
+				>
+					<Link href="/social/create">Create</Link>
 				</Button>
 			</div>
 		</header>
